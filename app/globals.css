@@ -34,6 +34,8 @@ body {
     --chart-5: 27 87% 67%;
     --radius: 0.5rem;
   }
+
+  
   .dark {
     --background: 0 0% 3.9%;
     --foreground: 0 0% 98%;
@@ -60,11 +62,11 @@ body {
     --chart-4: 280 65% 60%;
     --chart-5: 340 75% 55%;
   }
+   
 
-  /*
-  .dark {
+  /* :root {
     --background: 180 100% 12%;
-    --foreground: 0 0% 98%;
+    --foreground: 227.1,21.2%,87.1%;
     --card: 199 97% 15%;
     --card-foreground: 0 0% 98%;
     --popover: 0 0% 3.9%;
@@ -79,7 +81,7 @@ body {
     --accent-foreground: 0 0% 98%;
     --destructive: 0 62.8% 30.6%;
     --destructive-foreground: 0 0% 98%;
-    --border: 0 0% 70%;
+    --border: 227.1,21.2%,70.1%;
     --input: 0 0% 14.9%;
     --ring: 0 0% 83.1%;
     --chart-1: 220 70% 50%;
@@ -87,8 +89,8 @@ body {
     --chart-3: 30 80% 55%;
     --chart-4: 280 65% 60%;
     --chart-5: 340 75% 55%;
-  }
-  */
+  } */
+ 
 }
 
 @layer base {
